@@ -2,6 +2,7 @@
 
 ## Challenge : 
 Face aux vulnérabilités des méthodes d'authentification traditionnelles, notre entreprise, Leoni, cherchait à renforcer la sécurité de ses systèmes d'accès au logiciel CSWIN.
+
 ![cswin](https://github.com/Bader-dine/Face-Recognition-Lock/assets/121392319/45684f82-2c49-4e7d-8a32-77dac4aca940)
 ![login](https://github.com/Bader-dine/Face-Recognition-Lock/assets/121392319/f1b398f8-9794-47cf-89a6-1a9c430f796b)
 
