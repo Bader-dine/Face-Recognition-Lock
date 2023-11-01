@@ -1,0 +1,50 @@
+[
+    {
+        "name": "bader",
+        "service": "Admin",
+        "matricule": "10111",
+        "isAdmin": true
+    },
+    {
+        "name": "amalaaaaa",
+        "service": "Maintenance",
+        "matricule": "789221",
+        "isAdmin": false
+    },
+    {
+        "name": "saif",
+        "service": "Admin",
+        "matricule": "149928",
+        "isAdmin": true
+    },
+    {
+        "name": "saif",
+        "service": "Maintenance",
+        "matricule": "258963",
+        "isAdmin": false
+    },
+    {
+        "name": "AAA",
+        "service": "Process",
+        "matricule": "773015",
+        "isAdmin": false
+    },
+    {
+        "name": "Noura",
+        "service": "Quality",
+        "matricule": "487660",
+        "isAdmin": false
+    },
+    {
+        "name": "Amal",
+        "service": "Admin",
+        "matricule": "95060753",
+        "isAdmin": true
+    },
+    {
+        "name": "badrrrr",
+        "service": "Quality",
+        "matricule": "125546",
+        "isAdmin": false
+    }
+]
